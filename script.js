@@ -133,6 +133,8 @@ function check_iban(iban){
     return iban
 }
 testIban = 'SA03 8000 0000 6080 1016 7519'
+testIban = 'SA03 1000 0000 6080 1016 7519'
+testIban = 'SA03 5500 0000 6080 1016 7519'
 
 function get_iban() {
 
